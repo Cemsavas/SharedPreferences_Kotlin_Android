@@ -2,6 +2,8 @@
 
 Best practice with an example of user name and age is easy way to learn what is purpose of SharedPreferences
 
+Save Data , Load data and delete data with SharedPreferences
+
 Please do not hesitate to contact me if you hae queries
 
 
